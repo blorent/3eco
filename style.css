@@ -1,0 +1,133 @@
+html {
+background : #574c48;
+}
+
+body {
+width : 800px;
+margin-left : auto;
+margin-right : auto;
+padding:0;
+margin-top : 0px;
+position : relative;
+top : 0px;
+overflow-x: hidden;
+}
+
+html>body {
+height: auto;
+}
+
+#mainContainer {
+width : 1000px;
+margin : 0 auto 30px auto;
+}
+
+#header {
+width : 100%;
+padding : 0px 0px 0px 0px;
+height : 150px;
+}
+
+#menu {
+float : left;
+width : 270px;
+padding-right : 20px;
+position : relative; left : 0px;
+}
+
+#menu ul {
+list-style-type : none;
+margin : 0px;
+}
+
+#menu ul li {
+height : 40px;
+margin-top : 30px;
+}
+
+#menu a, #menu a:visited, #menu a:active {
+color : white;
+font-family : Verdana;
+text-decoration : none;
+font-size : 15px;
+padding : 20px 0px 20px 50px;
+height : 40px;
+background : url('images/carreCreux.png') no-repeat 0px 10px;
+}
+
+#menu a:hover {
+color : white;
+background : url('images/carrePlein.png') no-repeat 0px 10px;
+}
+
+#swappableContent {
+width : 710px;
+margin-left : 290px;
+}
+
+#swappableContent p {
+margin-left : 20px;
+}
+
+#swappableContent a {
+text-decoration : none;
+color : #3f9848;
+}
+
+#swappableContent a:hover {
+text-decoration : none;
+color : #c18442;
+}
+
+#logo, #architecture, #audit, #certificat, #primes, #equipe, #liens, #contact {
+padding : 20px;
+background : #ede7d8;
+border : 5px solid white;
+color : #574c48;
+font-family : Verdana, sans-serif;
+font-size : 12px;
+width : 100%;
+height : 600px;
+padding-right : 0;
+overflow : auto;
+}
+
+#logo {
+background : #574c48;
+border: 5px solid #574c48;
+}
+
+#logo a, #logo a:hover, #logo a:active, #logo a:visited {
+text-decoration : none;
+outline: none;
+}
+
+#logo a:focus
+{
+-moz-outline-style: none;
+}
+
+#logo img { border : none;  margin-left : 130px; margin-top : 130px;}
+
+p img {
+margin : 15px;
+border : 3px solid #eee;
+}
+
+p.center {
+text-align : center;
+}
+
+.cContact {
+margin-left : 15px;
+margin-bottom : 40px;
+}
+
+.cContact p {
+margin-left : 40px;
+}
+
+.cContact .contactDesc {
+font-weight : bold;
+}
+
