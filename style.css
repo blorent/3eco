@@ -17,6 +17,16 @@ html>body {
 height: auto;
 }
 
+h1 {
+margin : 30px 0 10px 0;
+color : #616b9a;
+}
+
+h2 {
+margin : 35px 0 10px 0;
+color : #d77d1d;
+}
+
 #mainContainer {
 width : 1000px;
 margin : 0 auto 30px auto;
@@ -25,7 +35,7 @@ margin : 0 auto 30px auto;
 #header {
 width : 100%;
 padding : 0px 0px 0px 0px;
-height : 150px;
+height : 120px;
 }
 
 #menu {
@@ -33,6 +43,7 @@ float : left;
 width : 270px;
 padding-right : 20px;
 position : relative; left : 0px;
+margin-top : 30px;
 }
 
 #menu ul {
@@ -80,20 +91,20 @@ color : #c18442;
 }
 
 #logo, #architecture, #audit, #certificat, #primes, #equipe, #liens, #contact {
-padding : 20px;
-background : #ede7d8;
+padding : 0px 20px 20px 20px;
+background : #ede7d8 url('images/logo-transp.png') center center no-repeat;
 border : 5px solid white;
 color : #574c48;
 font-family : Verdana, sans-serif;
 font-size : 12px;
-width : 100%;
+width : 670px;
 height : 600px;
-padding-right : 0;
 overflow : auto;
+line-height : 1.4em;
 }
 
 #logo {
-background : #574c48;
+background : #574c48 url('images/logo.png') center center no-repeat;
 border: 5px solid #574c48;
 }
 
