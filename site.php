@@ -115,10 +115,12 @@
         <h1>Certificat PEB</h1>
         
         <h2>Le certificat PEB, c'est quoi ?</h2>
+        <img class="rightFloat" src="images/peb_consommation.jpg" />
         <p>Apr&egrave;s les appareils &eacute;lectrom&eacute;nagers et les voitures... c'est au tour de votre maison d'afficher sa consommation d'&eacute;nergie. La directive europ&eacute;enne relative &agrave; la Performance &eacute;nerg&eacute;tique des b&acirc;timents (PEB) impose en effet aux &eacute;tats membres de mettre en place un syst&egrave;me de certification &eacute;nerg&eacute;tique des b&acirc;timents.</p>
         <p>A partir du 1er Juin 2011, toute personne qui souhaite vendre ou louer un b&acirc;timent r&eacute;sidentiel doit &ecirc;tre en possession d'un Certificat de performance &eacute;nerg&eacute;tique valable.</p>
         
         <h2>Quelle informations y trouver ?</h2>
+        <img class="rightFloat" src="images/peb_formulaire.jpg" />
         <p>V&eacute;ritable carte d'identit&eacute; &eacute;nerg&eacute;tique, le Certificat de performance &eacute;nerg&eacute;tique indique la consommation th&eacute;orique d'&eacute;nergie du b&acirc;timent.</p>
         <p>&eacute;labor&eacute; par un certificateur agr&eacute;&eacute; ind&eacute;pendant, le Certificat mentionne pour chaque b&acirc;timent :</p>
         <ul>
@@ -144,6 +146,7 @@
          
          <h2>Tarifs</h2>
         <p>Le co&ucirc;t du Certificat n'est pas fixe : il d&eacute;pend du temps n&eacute;cessaire &agrave; son &eacute;laboration et donc de la complexit&eacute; du b&acirc;timent &agrave; certifier. Les tarifs suivant s'appliquent dans la majorit&eacute; des cas. Le prix vous sera confirm&eacute; lors d'une premi&egrave;re prise de contact.</p>
+        <img class="rightFloat" src="images/peb_tarifs.jpg" />
         
         <h2>Documents</h2>
         <p>Afin de garantir l'aspect r&eacute;glementaire du certificat PEB, la R&eacute;gion Wallonne a &eacute;tabli une liste de preuves acceptables. Toute information encod&eacute;e doit &ecirc;tre prouv&eacute;e.</h2>

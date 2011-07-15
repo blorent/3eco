@@ -20,11 +20,13 @@ height: auto;
 h1 {
 margin : 30px 0 10px 0;
 color : #616b9a;
+clear : both;
 }
 
 h2 {
 margin : 35px 0 10px 0;
 color : #d77d1d;
+clear : both;
 }
 
 #mainContainer {
@@ -120,9 +122,23 @@ outline: none;
 
 #logo img { border : none;  margin-left : 130px; margin-top : 130px;}
 
-p img {
+img {
 margin : 15px;
 border : 3px solid #eee;
+}
+
+img .leftFloat {
+float : left;
+margin-top : 0;
+}
+
+img.rightFloat {
+float : right;
+margin-top : 0;
+}
+
+img.center {
+margin : 15px auto;
 }
 
 p.center {
