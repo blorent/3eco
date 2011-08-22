@@ -255,6 +255,15 @@
         }
         else { echo '<div id="liens" style="display:none">';}
         ?>
+        
+        <h1 style="margin-bottom : 50px;">Liens utiles</h1>
+         <p><a href="http://energie.wallonie.be/fr">L'&eacute;nergie et l'&eacute;cologie en r&eacute;gion Wallonne</a></p>
+         <p><a href="http://energie.wallonie.be/fr/audit-energetique.html?IDC=6048">Video explicative de l'audit &eacute;nerg&eacute;tique PAE</a></p>
+	   	<p><a href="http://minfin.fgov.be/portail2/fr/themes/dwelling/energysaving/index.htm">R&eacute;duction d'imp&ocirc;t pour investissements &eacute;conomiseurs d'&eacute;nergie</a></p>
+			<p><a href="http://www.bepassive.be/archives">Magazine sur l'architecture passive</a></p>
+			<p><a href="http://www.bois-habitat.com/">La construction en bois</a></p>
+			<p><a href="http://energie.wallonie.be/fr/construire-avec-l-energie.html?IDC=6025">Construire avec l'&eacute;nergie</a></p>
+			
 		</div>
 		<!-- Fin page liens -->
 
